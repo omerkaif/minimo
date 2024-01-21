@@ -1,0 +1,2 @@
+# minimo
+first minimo
